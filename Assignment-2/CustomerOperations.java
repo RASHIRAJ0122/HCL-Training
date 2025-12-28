@@ -1,0 +1,3 @@
+interface CustomerOperations {
+    void displayCustomerDetails();
+}
